@@ -1,16 +1,18 @@
 .Weather {
   font-family: monospace;
   border: 1px solid #dadde1;
-  padding: 16px;
+  padding: 30px 30px;
   border-radius: 4px;
   color: rgb(135, 135, 135);
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
 }
 
 .Weather h1 {
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 100;
-  margin: 50px 0 0 0;
+  margin: 40px 0 0 0;
   line-height: 29px;
+  color: rgba(210, 105, 30, 0.5);
 }
 
 .Weather ul {
