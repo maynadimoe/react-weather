@@ -5,4 +5,8 @@
 .WeatherForecast-temperature-min {
   opacity: 0.6;
   margin-left: 5px;
+  color: rgb(210, 105, 30);
+}
+.WeatherForecast-temperature-max {
+  color: rgb(210, 105, 30);
 }

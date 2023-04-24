@@ -1,5 +1,5 @@
 .Weather {
-  font-family: arial, sans-serif;
+  font-family: monospace;
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
@@ -9,7 +9,7 @@
 .Weather h1 {
   font-size: 24px;
   font-weight: 100;
-  margin: 20px 0 0 0;
+  margin: 50px 0 0 0;
   line-height: 29px;
 }
 
@@ -27,7 +27,7 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: rgb(33, 33, 33);
+  color: chocolate;
   font-size: 64px;
   line-height: 64px;
   margin-left: 5px;
