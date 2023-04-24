@@ -26,7 +26,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://reliable-concha-bcbc0a.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
